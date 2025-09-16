@@ -24,7 +24,7 @@ Healthcare providers face challenges such as:
   
 - Resource misallocation due to undifferentiated patient populations.
 
--Limited insights from raw patient data.
+- Limited insights from raw patient data.
 
 This platform addresses these issues through AI-driven patient segmentation and visualization.
 
@@ -52,25 +52,25 @@ The dataset includes key patient features:
 
 **Project Workflow**
 
-- 1. Data Preprocessing
+1. Data Preprocessing
 
 - Handle missing values, encode categorical variables, and normalize features.
 
-- 2. Feature Analysis & EDA
+2. Feature Analysis & EDA
 
 - Explore correlations and distributions using visualizations.
 
-- 3. Clustering Module
+3. Clustering Module
 
 - Apply K-Means and Hierarchical Clustering to segment patients.
 
 - Reduce dimensionality with PCA for better visualization.
 
-- 4. Cluster Interpretation
+4. Cluster Interpretation
 
 - Analyze patient groups to identify high-risk profiles and preventive care recommendations.
 
-- 5. Visualization & Reporting
+5. Visualization & Reporting
 
 - Generate cluster plots, feature importance charts, and summary reports.
 
